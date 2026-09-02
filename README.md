@@ -8,7 +8,7 @@
 - 🔭 I'm currently exploring **Machine Learning, Deep Learning & Data Analytics**
 - 🌱 I'm learning to build end-to-end **AI-driven** applications
 - 💡 Interested in AI automation and real-world ML use cases
-- 📫 Reach me at: **your-email@example.com**
+- 📫 Reach me at: **reply2gs04@gmail.com**
 - ⚡ Fun fact: I like turning messy data into clean insights
 
 ---
